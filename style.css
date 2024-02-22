@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    display: inline-block;
+    height: 150px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.logo img{
+    float: left;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.logo ul{
+    margin-left: 800px;
+}
+
+
+
+.logo li{
+    display: inline-block;
+    padding: 10px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.center{
+    margin-top: 100px;
+}
+.center img{
+   
+    display: inline;
+    margin-right: 300px;
+    height: 600px;
+    float: right;
+    
+
+}
+.brand-img img{
+    width: 100%;
+    display: inline;
+
+
+}
+
+.in-content {
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 300px;
+    font-size: 25px;
+    line-height: 1cm;
+    
+}
+
+.juise img{
+    display: inline-block;
+    margin: 150px;
+    height: 600px;
+    margin-left: 200px;
+    
+}
+.juise-in {
+    position: absolute;
+    float: right;
+    left: 50%;
+    top: 1600px;
+    font-size: 25px;
+      
+}
+.l-pic h1{
+    text-align: center;
+    font-size: 50px;
+}
+.l-pic img{
+    position: relative;
+    left: 40%;
+}
+
+.final{
+    background-color: #f2f2f2;
+    font-size: 20px;
+
+}
+.final h5 p {
+    position: relative;
+    left: 20%;
+    top: 10px;
+   
+
+}
+.final .no{
+    position: relative;
+    left: 70%;
+    bottom: 50px;
+
+}
+
